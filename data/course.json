@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Process Control Systems"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ccde269a-2e02-52f3-dbeb-779ffbd222f5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Process Dynamics, Operations, and Control",
+  "course_description": "This course introduces dynamic processes and the engineering tasks of process operations and control. Subject covers modeling the static and dynamic behavior of processes; control strategies; design of feedback, feedforward, and other control structures; and applications to process equipment.\n\n### Dedication\n\nIn preparing this material, the author has recalled with pleasure his own introduction, many years ago, to Process Control. This OCW course is dedicated with gratitude, to Prof. W. C. Clements of the University of Alabama.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.450",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
